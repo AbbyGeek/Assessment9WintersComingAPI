@@ -1,0 +1,86 @@
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Assessment 9 Winters Coming.dll.config
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Assessment 9 Winters Coming.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Assessment 9 Winters Coming.pdb
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csc.exe
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csc.exe.config
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csc.rsp
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csi.exe
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csi.exe.config
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\csi.rsp
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.AppContext.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Console.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.IO.Compression.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.IO.Pipes.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Claims.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.ValueTuple.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Xml.XPath.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\vbc.exe
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\vbc.exe.config
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\vbc.rsp
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\VBCSCompiler.exe
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Antlr3.Runtime.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Newtonsoft.Json.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Net.Http.Formatting.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Helpers.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Http.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Http.WebHost.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Mvc.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Optimization.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Razor.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.Deployment.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.Razor.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\WebGrease.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Net.Http.Formatting.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Http.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Http.WebHost.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Helpers.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Mvc.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Optimization.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.Razor.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.Deployment.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Web.WebPages.Razor.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Newtonsoft.Json.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Antlr3.Runtime.pdb
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\obj\Debug\Assessment 9 Winters Coming.csprojAssemblyReference.cache
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\obj\Debug\Assessment 9 Winters Coming.csproj.CoreCompileInputs.cache
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\obj\Debug\Assessment 9 Winters Coming.csproj.CopyComplete
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\obj\Debug\Assessment 9 Winters Coming.dll
+C:\Users\awessels\source\repos\Assessment 9 Winters Coming\Assessment 9 Winters Coming\obj\Debug\Assessment 9 Winters Coming.pdb

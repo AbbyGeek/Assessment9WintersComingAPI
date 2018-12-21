@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "getSpecificCharacter";
+}
+
+<h2>getSpecificCharacter</h2>
+
+<form action="~/API/getSpecificCharacter" method="post">
+    @*<input type="text" name="charID"/>Enter Number<br />*@
+    @*<p>
+            Petyr Baelish (823)<br />
+            Drogo (1346)<br />
+            Jon Snow (538)<br />
+            Ramsay Snow (849)<br />
+            Arya Stark(148)
+        </p>*@
+    Petyr Baelish: <input type="radio" name="charID" value="823" /><br />
+    Drogo: <input type="radio" name="charID" value="1346" /><br />
+    Jon Snow: <input type="radio" name="charID" value="583" /><br />
+    Ramsay Snow: <input type="radio" name="charID" value="849" /><br />
+    Arya Stark: <input type="radio" name="charID" value="148" /><br />
+
+    @*<select>
+            <option name="charID" value="823">Petyr Baelish</option>
+            <option name="charID" value="1346">Drogo</option>
+            <option name="charID" value="583">Jon Snow</option>
+            <option name="charID" value="849">Ramsay Snow</option>
+            <option name="charID" value="148">Arya Stark</option>
+        </select>*@
+    <input type="submit" value="Look" />
+</form>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Culture</th>
+        <th>Born</th>
+        <th>Died</th>
+        <th>Titles</th>
+        <th>Aliases</th>
+    </tr>
+
+    @if (ViewBag.CharInfo != null)
+    {
+        <tr>
+            <td>@ViewBag.CharInfo.name</td>
+            <td>@ViewBag.CharInfo.gender</td>
+            <td>@ViewBag.CharInfo.culture</td>
+            <td>@ViewBag.CharInfo.born</td>
+            <td>@ViewBag.CharInfo.died</td>
+            <td>
+                <select>
+                    @foreach (string y in ViewBag.CharInfo.titles)
+                    {
+                        <option>@y</option>
+                    }
+                </select>
+            </td>
+            <td>
+                <select>
+                    @foreach (string y in ViewBag.CharInfo.aliases)
+                    {
+                        <option>@y</option>
+                    }
+                </select>
+            </td>
+        </tr>
+
+    }
+</table>
+@if (ViewBag.CharInfo != null)
+{
+    <a href=ViewBag.CharInfo.url>View All details</a>
+}

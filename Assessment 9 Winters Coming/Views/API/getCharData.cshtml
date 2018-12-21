@@ -1,0 +1,52 @@
+﻿
+@{
+    ViewBag.Title = "getCharData";
+}
+
+<h2>getCharData</h2>
+
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Gender</th>
+        <th>Culture</th>
+        <th>Born</th>
+        <th>Died</th>
+        <th>Titles</th>
+        <th>Aliases</th>
+    </tr>
+    @foreach (var x in ViewBag.data)
+    {
+        <tr>
+            <td>@x.name</td>
+            <td>@x.gender</td>
+            <td>@x.culture</td>
+            <td>@x.born</td>
+            <td>@x.died</td>
+            <td>
+                <select>
+                @foreach (string y in x.titles)
+                {
+                    <option>@y</option>
+                }
+                    </select>
+            </td>
+            <td>
+                <select>
+                    @foreach (string y in x.aliases)
+                    {
+                        <option>@y</option>
+                    }
+                </select>
+            </td>
+            
+            </tr>
+            }
+    </table>
+
+            @*@for (int i = 0; i < ViewBag.data.Count; i++)
+                {
+
+                    <p>@ViewBag.data[i]["name"]</p>
+                }*@
